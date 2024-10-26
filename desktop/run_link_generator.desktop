@@ -4,5 +4,5 @@ Type=Application
 Name=EDT
 Comment=Lance EDT
 Exec=/home/jeanstierlin/Documents/perso/edt/run_link_generator.sh
-Icon=/home/jeanstierlin/Documents/perso/edt/edt.png
+Icon=/home/jeanstierlin/Documents/perso/edt/desktop/edt.png
 Terminal=false
