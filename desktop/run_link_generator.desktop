@@ -1,4 +1,5 @@
 [Desktop Entry]
+# Fichier à mettre dans son propre Desktop
 Version=1.0
 Type=Application
 Name=EDT
@@ -6,3 +7,5 @@ Comment=Lance EDT
 Exec=/home/jeanstierlin/Documents/perso/edt/run_link_generator.sh
 Icon=/home/jeanstierlin/Documents/perso/edt/desktop/edt.png
 Terminal=false
+# Chemin vers le répertoire edt
+Path=/home/jeanstierlin/Documents/perso/edt
