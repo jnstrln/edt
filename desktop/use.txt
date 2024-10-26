@@ -1,0 +1,1 @@
+Le fichier run_link_generator.desktop est à mettre dans son propre Desktop.

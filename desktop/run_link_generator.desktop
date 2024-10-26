@@ -1,0 +1,8 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=EDT
+Comment=Lance EDT
+Exec=/home/jeanstierlin/Documents/perso/edt/run_link_generator.sh
+Icon=/home/jeanstierlin/Documents/perso/edt/edt.png
+Terminal=false
